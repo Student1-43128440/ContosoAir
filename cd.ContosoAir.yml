@@ -16,7 +16,8 @@ resources:
           - master
 
 pool:
-  vmImage: ubuntu-latest
+  #vmImage: ubuntu-latest
+  name: default
 
 steps:
 
